@@ -1,0 +1,4 @@
+2022-11-19 21:19:39,570   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin2:123452
+2022-11-19 21:22:50,407   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin2:123452
+2022-11-19 21:54:56,005   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 21:54:59,531   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin2:123452

@@ -1,0 +1,239 @@
+2022-11-19 14:37:22,369   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:49:19,512   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:38,269   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:38,268   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:40,826   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:43,081   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:43,102   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:45,433   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:45,433   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:47,679   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:47,686   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:50,043   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:52,273   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:52,286   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:54,546   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+tform: 7
+2022-11-19 18:53:56,902   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:53:56,903   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:53:59,156   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+tform: 7
+2022-11-19 18:54:01,408   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:54:01,408   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:54:03,763   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:54:03,763   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:54:06,126   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 18:54:06,126   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 18:54:08,370   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:21,826   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:21,820   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:23,918   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:23,919   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:26,018   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:26,018   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:28,223   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:28,252   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:31,388   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:31,400   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:33,473   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:33,474   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:35,828   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:35,833   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:39,146   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:39,147   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:41,380   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:41,389   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:43,575   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:43,580   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:45,700   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:45,700   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:49,090   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:49,091   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:51,212   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:51,213   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:54,353   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:54,358   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:56,462   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:17:56,464   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:58,583   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:17:58,602   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:01,850   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:01,850   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:04,999   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:05,005   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:08,252   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:08,252   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:11,460   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:11,460   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:13,699   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:13,699   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:16,825   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:16,838   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:21,188   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:21,193   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:23,328   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:23,328   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:27,458   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:27,473   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:29,586   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:29,603   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:33,770   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:33,770   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:37,905   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:37,905   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:41,235   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:41,235   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:43,321   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:43,328   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:45,412   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:45,418   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:48,580   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:48,580   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:51,701   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:51,706   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:54,978   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:54,979   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:18:59,150   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:18:59,150   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:01,380   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:01,380   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:04,579   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:04,580   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:07,728   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:07,728   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:10,873   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:10,873   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:14,139   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:14,139   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:18,352   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:18,352   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:21,566   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:21,567   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:24,735   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:24,745   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:27,928   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:27,928   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:32,033   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:32,066   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:36,237   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:36,261   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:39,306   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:39,311   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:43,366   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:43,386   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:46,503   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:46,529   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:50,696   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:50,707   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:54,785   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:54,816   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:19:58,880   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:19:58,886   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:03,076   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:03,128   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:06,659   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:06,659   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:09,858   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:09,866   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:14,085   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:14,103   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:18,266   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:18,266   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:22,377   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:22,391   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:25,492   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:25,501   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:29,686   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:29,709   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:32,910   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:32,911   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:36,095   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:36,095   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:39,209   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:39,209   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:42,448   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:42,456   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:46,705   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:46,725   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:50,821   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:50,823   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:54,978   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:54,978   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:20:58,104   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:20:58,121   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:02,265   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:02,270   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:06,350   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:06,354   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:10,585   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:10,585   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:14,731   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:14,750   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:18,927   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:18,932   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:23,137   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:23,138   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:27,295   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:27,297   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:31,514   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:31,531   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:35,824   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:35,824   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:39,946   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:39,947   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:44,111   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:44,111   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:48,418   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:48,418   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:52,582   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:52,591   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:21:57,057   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:21:57,071   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:01,539   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:01,545   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:05,697   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:05,698   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:09,844   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:09,846   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:14,018   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:14,037   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:18,143   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:18,149   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:22,260   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:22,269   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:26,508   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:26,509   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:30,689   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:30,710   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:34,780   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:34,785   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:39,004   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:39,006   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:43,157   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:43,172   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:47,286   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:47,303   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:51,487   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:51,499   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:22:55,612   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:22:55,629   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:00,099   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:00,100   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:04,202   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:04,219   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:08,397   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:08,397   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:12,900   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:12,900   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:17,065   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:17,081   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:21,231   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:21,244   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:25,344   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:25,378   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:29,598   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:29,605   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:34,016   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:34,016   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-19 19:23:41,376   ibmiotf.device.Client      INFO    Connected successfully: d:apcs15:smartbin:12345
+2022-11-19 19:23:41,377   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
